@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifier_v2", "Classifier_v2\Classifier_v2.csproj", "{6C2E6C9A-9836-4D88-BCE9-2F38CA7233B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2E6C9A-9836-4D88-BCE9-2F38CA7233B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2E6C9A-9836-4D88-BCE9-2F38CA7233B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2E6C9A-9836-4D88-BCE9-2F38CA7233B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2E6C9A-9836-4D88-BCE9-2F38CA7233B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C1E109-2697-47B1-AB27-368E1D76BFE7}
+	EndGlobalSection
+EndGlobal
