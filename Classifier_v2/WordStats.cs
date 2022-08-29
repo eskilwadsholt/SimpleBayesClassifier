@@ -14,6 +14,8 @@ namespace Classifier_v2
 
         internal void AddWords(string[] words)
         {
+            WordCount += words.Length;
+
             foreach (var word in words)
             {
                 if (!Words.ContainsKey(word)) Words.Add(word, 0);
